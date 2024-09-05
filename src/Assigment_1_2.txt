@@ -1,0 +1,26 @@
+Assigment 2
+
+Part 1
+
+Here is the memory used when we compile. The size of the program is 40 bytes
+
+RAM:   [          ]   0.0% (used 0 bytes from 2048 bytes)
+Flash: [          ]   0.5% (used 164 bytes from 30720 bytes)
+
+
+Part2 
+
+Here is  the memory used when we compile, it's more or less the same as previously. However, the code size of the whole code is now of 106 bytes whith the addition of the class in the code, which is still quite negligible.
+
+RAM:   [          ]   0.0% (used 0 bytes from 2048 bytes)
+Flash: [          ]   0.5% (used 162 bytes from 30720 bytes) 230?
+
+
+Part 3
+
+Here is the memory used when we compile, still more or less the same. However, the code size of every files amount to 240 bytes after adding the final class and some comments.
+
+RAM:   [          ]   0.0% (used 0 bytes from 2048 bytes)
+Flash: [          ]   0.6% (used 176 bytes from 30720 bytes)
+
+All in all, after having abstracted the hardware control into classes we kept the code light-weighted even though the size and memory used does increase a little bit.
